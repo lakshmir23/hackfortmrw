@@ -1,0 +1,7 @@
+streamlit
+requests
+python-dotenv
+gtts
+streamlit-mic-recorder
+langchain-nvidia-ai-endpoints
+playwright
